@@ -1,27 +1,34 @@
-# 欢迎来访三藏的技术主页
----
-### C++/UE/Cesium for Unreal
----
-- ### 💬 腾讯客户端开发公开课作业
-   __作业一——使用UE进行apk打包__：
-    * 安卓包及手机运行视频： [https://share.weiyun.com/KVfDM0qx](https://share.weiyun.com/KVfDM0qx)
-  
-   __作业二——UMG界面设计 (个人信息、计分信息、排行榜等)__:
-    * 演示视频B站链接： [https://www.bilibili.com/video/BV1u64y1j7Ea/](https://www.bilibili.com/video/BV1u64y1j7Ea/)
-    * 项目工程文件及说明： [https://github.com/ThreeShadesDK](https://github.com/ThreeShadesDK)
+# 你好，我是三藏 / Hi, I’m Sanzang
 
-- ### 💬 个人项目
+以前做建筑，后来用 Unreal Engine 做过游戏和地理空间可视化，现在主要在做 **[Loom](https://github.com/Qy-Wen/loom)**。
 
-   __使用UE开发的科幻风格第三人称射击类游戏__：
-   * 演示视频B站链接：[https://www.bilibili.com/video/BV11Q4y1x799/](https://www.bilibili.com/video/BV11Q4y1x799/)
-   * 演示视频文件：[https://share.weiyun.com/1CAmLIL5](https://share.weiyun.com/1CAmLIL5)
-   * window包(由于资产塞太多了，导致包非常大，有13个g):[https://pan.baidu.com/s/1_zPW1-oYjM1s8dHWuIMIiA](https://pan.baidu.com/s/1_zPW1-oYjM1s8dHWuIMIiA)  ``` 提取码：b3kx ```
-   * 项目工程文件及说明：[https://github.com/ThreeShadesDK/ShooterGame.git](https://github.com/ThreeShadesDK/ShooterGame.git)
-     
-  
-   __基于虚幻引擎的热暴露数据交互展示平台（持续开发中）__：
-   * 已托管到云平台，可通过网页端访问（谷歌浏览器最佳）: [https://www.pingxingyun.com/console/api/poc/hostAppli/start?appliId=1178801963819597824](https://www.pingxingyun.com/console/api/poc/hostAppli/start?appliId=1178801963819597824)
-   * 演示视频文件以及window包：[https://share.weiyun.com/cElRQi3U](https://share.weiyun.com/cElRQi3U)
-   * 项目工程文件及说明：[https://github.com/ThreeShadesDK/CesiumHeatExposure.git](https://github.com/ThreeShadesDK/CesiumHeatExposure.git)
+一路做过的东西有些不同，但设计和开发一直都在其中。最近的精力更多放在 AI 应用上，尤其是 Agent 怎么在具体的软件里把事情做完。
 
+My background is in architecture, with later work in Unreal Engine, games, and geospatial visualization. These days, I’m focused on Loom and building agents that can get things done inside an application.
 
+## 最近在做：Loom
+*Currently building: Loom*
+
+做创意项目时，参考图、视频片段、音频和生成结果往往散在不同文件夹里。找素材、预览、处理，再把结果收回来，这些步骤都很琐碎。
+
+Loom 是一个本地优先的 AI 创意素材工作台。打开已有的文件夹，就能浏览和整理素材，也可以让 Agent 帮忙找图、从视频里截帧、裁剪转码，或者调用 ComfyUI 等工具生成新的内容。处理后的结果会回到素材库里，参考素材与产出的关系也可以记录下来。
+
+目前它是我投入最多的项目。从素材浏览、检索到 Agent 实际操作文件，还有很多细节在持续打磨。
+
+Loom is a local-first workspace for creative assets. Open an existing folder to browse and organize your files, then ask an agent to find references, extract video frames, process media, or work with tools like ComfyUI. Results come back into the library, where you can keep track of how source material connects to finished work.
+
+It’s my main project right now, with ongoing work on browsing, search, and how the agent handles real files and tools.
+
+[查看源码 / Source](https://github.com/Qy-Wen/loom) · [下载试用 / Download](https://loom.sanzang.site)
+
+## 以前做过
+*Earlier projects*
+
+之前的一些项目留在这里，主要是用 Unreal Engine 做空间展示和交互的尝试。
+
+A few earlier projects exploring spaces and interaction with Unreal Engine.
+
+- **[CesiumHeatExposure](https://github.com/Qy-Wen/CesiumHeatExposure)** — 基于 Unreal Engine 与 Cesium 的热暴露数据交互展示。  
+  Interactive heat exposure visualization with Unreal Engine and Cesium.
+- **[ShooterGame](https://github.com/Qy-Wen/ShooterGame)** — 用 Unreal Engine 开发的科幻风格第三人称射击游戏。  
+  A sci-fi third-person shooter built with Unreal Engine.
