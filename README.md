@@ -1,6 +1,6 @@
 # 你好，我是三藏 / Hi, I’m Sanzang
 
-[个人网站 / Website · sanzang.site](https://sanzang.site) · 仅中文 / Chinese only
+[个人中文网站 / Personal website in Chinese · sanzang.site](https://sanzang.site)
 
 以前做建筑，后来用 Unreal Engine 做过游戏和地理空间可视化，现在主要在做 **[Loom](https://github.com/Qy-Wen/loom)**。
 
