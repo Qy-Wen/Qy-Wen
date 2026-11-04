@@ -9,6 +9,8 @@ My background is in architecture, with later work in Unreal Engine, games, and g
 ## 最近在做：Loom
 *Currently building: Loom*
 
+[![Loom：你的文件夹，就是工作台 / Your folder, your workspace](assets/loom-hero.png)](https://loom.sanzang.site)
+
 做创意项目时，参考图、视频片段、音频和生成结果往往散在不同文件夹里。找素材、预览、处理，再把结果收回来，这些步骤都很琐碎。
 
 Loom 是一个本地优先的 AI 创意素材工作台。打开已有的文件夹，就能浏览和整理素材，也可以让 Agent 帮忙找图、从视频里截帧、裁剪转码，或者调用 ComfyUI 等工具生成新的内容。处理后的结果会回到素材库里，参考素材与产出的关系也可以记录下来。
